@@ -1,2 +1,2 @@
-# climbuddy
+# Climbuddy
 Climbuddy issue tracker
